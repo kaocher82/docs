@@ -1,6 +1,8 @@
 ---
 title: Access permissions on GitHub
 redirect_from:
+  - /-*./../.../..../.....
+  - Types of {% data variables.product.prodname_dotcom %} accounts](/articles/types-of-github-accounts)
   - /articles/needs-to-be-written-what-can-the-different-types-of-org-team-permissions-do/
   - /articles/what-are-the-different-types-of-team-permissions/
   - /articles/what-are-the-different-access-permissions/
@@ -24,6 +26,7 @@ Organization members can have *owner*{% if currentVersion == "free-pro-team@late
 - "[Repository permission levels for an organization](/articles/repository-permission-levels-for-an-organization)"
 - "[About teams](/articles/about-teams)"
 
+Types of {% data variables.product.prodname_dotcom %} accounts](/articles/types-of-github-accounts)"
 {% if currentVersion == "free-pro-team@latest" %}
 
 ### Enterprise accounts
